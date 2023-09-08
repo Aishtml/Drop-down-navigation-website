@@ -218,3 +218,14 @@ body {
         margin-top: 2em;
     }
 }
+
+footer {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1em;
+    margin-bottom: 3em;
+    text-align: center;
+    color: var(--clr--medgrey);
+    margin-top: 1em;
+    font-weight: var(--fw--neutral);
+}
